@@ -19,3 +19,5 @@ This project was undertaken by undergraduate sophomore students at the Physics D
 
 For continuous graphs such as the Q-factor graph, we found finite data points and used a cubic spline to interpolate the function, which have resulted in deviations
 However, as far as the qualitative physics of the problems is concerned, all graphs convey the requisite information as is desired.
+
+#### Project report of other teams can be found here: https://github.com/loqm/PH202_2020/tree/main/Projects
