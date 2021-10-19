@@ -1,4 +1,4 @@
-# PH202-Course-Project
+# Waves, Oscillations and Optics project
 ## Topic: Photonic Bound States in a Continuum
 #### [Research Paper to be Implemented](https://www.nature.com/articles/s42005-020-0353-z)
 
